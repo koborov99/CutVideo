@@ -1,6 +1,6 @@
 name: Build VideoCut APK
 
-on:
+'on':
   push:
     branches: [main]
   workflow_dispatch:
